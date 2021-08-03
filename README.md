@@ -13,6 +13,6 @@
 
 <ul>
   <h2><strong>📞 Contact</strong></h2>
-  [![asd](https://i.ibb.co/yFn1rQt/Telegram-Icon.png)](https://t.me/zDoctor_Dev)
+  ![asd](https://i.ibb.co/yFn1rQt/Telegram-Icon.png)
   <li><strong>HTML/CSS</strong> *60%*</li>
 </ul>
