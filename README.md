@@ -13,6 +13,7 @@
 
 <ul>
   <h2><strong>📞 Contact</strong></h2>
-  <iframe id="webroundbuttonwidget1" file="webroundbuttonwidget" src="https://telegrambutton.com/webroundbuttonwidget.php?chat_id=zDoctor_Dev&showchatid=true&showmembercount=true&showmembercount=true&color=&pulse=false&textcolor=white&shadowval=&textval=Telegram" border="1" style="margin-top:10px;border:20px;height: 60px;width: 60px;"></iframe>
+  Telegram-Icon.png
+  [![telegram](Telegram-Icon.png)](https://t.me/zDoctor_Dev)
   <li><strong>HTML/CSS</strong> *60%*</li>
 </ul>
