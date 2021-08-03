@@ -16,5 +16,8 @@
   <p>
     <a href="https://t.me/zDoctor_Dev"><img src="Telegram-Icon.png" width="50" height="50" /></a>
   </p>
+  <p>
+    <a href="“https://discordapp.com/users/603643099205599252"><img src="Telegram-Icon.png" width="50" height="50" /></a>
+  </p>
   <li><strong>Discord</strong> Ishikawa Goemon#0001</li>
 </ul>
