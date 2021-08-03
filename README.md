@@ -14,6 +14,6 @@
 <ul>
   <h2><strong>📞 Contact</strong></h2>
   Telegram-Icon.png
-  [![telegram](Telegram-Icon.png)](https://t.me/zDoctor_Dev)
+  [![telegram](https://github.com/zDoctor-Dev/zDoctor-Dev/blob/master/Telegram-Icon.png?raw=true)](https://t.me/zDoctor_Dev)
   <li><strong>HTML/CSS</strong> *60%*</li>
 </ul>
