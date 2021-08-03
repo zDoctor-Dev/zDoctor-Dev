@@ -2,8 +2,8 @@
 
 <h2><strong>📡 Skills</strong></h2>
 <ul>
-  <li>**Java** *65%*</li>
-  <li>**HTML/CSS** *60%*</li>
+  <li><strong>Java</strong> *65%*</li>
+  <li><strong>HTML/CSS</strong> *60%*</li>
 </ul>
 
 
