@@ -1,11 +1,4 @@
-<style>
-  .contacts {
-    display: flex;
-  }
-  .contacts p {
-    position: absolute;
-  }
-</style>
+
 <h1 align="center"><strong>👋 Hi! I'm zDoctor_</strong></h1>
 <h3 align="center"><strong>I'm a developer who mainly works with Minecraft Spigot API and makes small websites</strong></h3>
 
