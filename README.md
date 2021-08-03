@@ -1,5 +1,7 @@
 <h1 align="center"><strong>👋 Hi! I'm zDoctor_</strong></h1>
 
+<h2><strong>I'm a developer who mainly works with Minecraft Spigot API and makes small websites</strong></h2>
+
 <ul>
   <h2><strong>📡 Skills</strong></h2>
   <li><strong>Java</strong> - <i>65%</i></li>
