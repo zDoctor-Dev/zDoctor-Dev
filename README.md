@@ -16,4 +16,4 @@
   <a href="https://discordapp.com/users/603643099205599252"><img src="discord.png" width="50" height="50" /></a>
 </ul>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zDoctor-Dev&theme=radical)](https://github.com/zDoctor-Dev))
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zDoctor-Dev&theme=radical)](https://github.com/zDoctor-Dev)
