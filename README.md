@@ -12,9 +12,6 @@
 
 <ul>
   <h2><strong>📞 Contact</strong></h2>
-  <div class="contacts">
-    <a href="https://t.me/zDoctor_Dev"><img src="Telegram-Icon.png" width="50" height="50" /></a>
-    <a href="https://discordapp.com/users/603643099205599252"><img src="discord.png" width="50" height="50" /></a>
-  </div>
-  <li><strong>Discord</strong> Ishikawa Goemon#0001</li>
+  <a href="https://t.me/zDoctor_Dev"><img src="Telegram-Icon.png" width="50" height="50" /></a>
+  <a href="https://discordapp.com/users/603643099205599252"><img src="discord.png" width="50" height="50" /></a>
 </ul>
