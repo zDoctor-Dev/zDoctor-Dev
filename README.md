@@ -1,6 +1,6 @@
 <h1 align="center"><strong>👋 Hi! I'm zDoctor_</strong></h1>
 
-<h2><strong>I'm a developer who mainly works with Minecraft Spigot API and makes small websites</strong></h2>
+<h3><strong>I'm a developer who mainly works with Minecraft Spigot API and makes small websites</strong></h3>
 
 <ul>
   <h2><strong>📡 Skills</strong></h2>
