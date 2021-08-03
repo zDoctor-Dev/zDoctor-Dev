@@ -14,7 +14,7 @@
 <ul>
   <h2><strong>📞 Contact</strong></h2>
   <p>
-    <img src="Telegram-Icon.png" width="100" height="100" />
+    <img src="Telegram-Icon.png" width="50" height="50" />
   </p>
   <li><strong>Discord</strong> Ishikawa Goemon#0001</li>
 </ul>
