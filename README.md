@@ -13,6 +13,8 @@
 
 <ul>
   <h2><strong>📞 Contact</strong></h2>
-  <li><strong>Telegram</strong> @zDoctor_Dev</li>
+  <p>
+    <img src="Telegram-Icon.png" width="220" height="240" />
+  </p>
   <li><strong>Discord</strong> Ishikawa Goemon#0001</li>
 </ul>
